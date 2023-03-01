@@ -1,0 +1,6 @@
+{
+  "appId": "com.ionic.app",
+  "appName": "ionic",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
